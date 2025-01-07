@@ -1,1 +1,2 @@
 notas.txt
+Y:\Codigo-Divertido\galeria-test\notas.txt
